@@ -9,3 +9,12 @@ Other users should be able to participate by posting their own examples of what 
 best possible refactoring and explain why.
 
 The goal is to allow everyone to learn best practices, and write better code, using real examples.
+
+# The minimum viable product:
+
+- no signin/signup
+- categories or tags for the different programming languages
+- code highlighting
+- should allow users to reply with  one or more refactoring examples, with some explanations
+
+
